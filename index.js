@@ -144,12 +144,12 @@ SeasonsAccessory.prototype = {
 				case 6:
 				case 7:
 				case 8:
-					seasonName = "Autumn";
+					seasonName = "Summer";
 					break;
 				case 9:
 				case 10:
 				case 11:
-					seasonName = "Winter";
+					seasonName = "Autumn";
 					break;
 			}
 		}
