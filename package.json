@@ -1,6 +1,6 @@
 {
   "name": "homebridge-seasons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to display the current season of the year.",
   "license": "MIT",
   "keywords": [
