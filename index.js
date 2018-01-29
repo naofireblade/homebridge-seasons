@@ -165,7 +165,7 @@ SeasonsAccessory.prototype = {
 			}
 
 			let astronomicCalendar = seasonCalculator({ north: northernHemisphere, autumn: true });
-			seasonName = astronomicCalendar(new Date())
+			seasonName = astronomicCalendar(new Date());
 		}
 		debug("Current season is " + seasonName);
 		callback(false, seasonName);
