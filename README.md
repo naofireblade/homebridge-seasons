@@ -9,7 +9,7 @@ Feel free to leave any feedback [here](https://github.com/naofireblade/homebridg
 - Meteorologic season
 - Astronomic season
 - Nothern and southern hemisphere
-- Number and name representation of season
+- Number and name representation of the season
 
 ## Installation
 
