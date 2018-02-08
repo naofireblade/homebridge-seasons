@@ -1,4 +1,7 @@
 # homebridge-seaons
+[![npm](https://img.shields.io/npm/v/homebridge-seaons.svg?style=flat-square)](https://www.npmjs.com/package/homebridge-seaons)
+[![npm](https://img.shields.io/npm/dt/homebridge-seaons.svg?style=flat-square)](https://www.npmjs.com/package/homebridge-seaons)
+[![GitHub last commit](https://img.shields.io/github/last-commit/naofireblade/homebridge-seaons.svg?style=flat-square)](https://github.com/naofireblade/homebridge-seaons)
 
 This is a plugin for [homebridge](https://github.com/nfarina/homebridge) that displays the current season of the year. You can download it via [npm](https://www.npmjs.com/package/homebridge-seasons).
 
